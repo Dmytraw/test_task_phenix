@@ -1,0 +1,25 @@
+{
+  "name": "phenix-react-test-1",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/phenix-react-test-1",
+  "dependencies": {
+    "phenix-web-sdk": "2018.3.2",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.0.10",
+    "redux": "4.0.0",
+    "redux-thunk": "2.3.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.2"
+  }
+}
